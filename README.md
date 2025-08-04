@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [AKMovies4UPro](https://akmovies4upro.vercel.app)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Wordpress Theme Development**
 
 - 👨‍💻 All of my projects are available at [https://www.adityakumarportfolio.me/](https://www.adityakumarportfolio.me/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, NextJS, NodeJS**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, NextJS, AngularJS, NodeJS**
 
 - 📫 How to reach me **ak6414119@gmail.com**
 
